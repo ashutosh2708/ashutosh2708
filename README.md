@@ -49,16 +49,22 @@
 
 
 <p align="left">
+    <a href="https://github.com/ashutosh2708/CreditCard-Admin-Portal" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CreditCard Admin Portal&color=840010&logo=nintendo-3ds&logoColor=FFFFFF&label=" alt="CreditCard-Admin-Portal" />
+    </a>
+    <a href="https://github.com/ashutosh2708/Budget-Planner" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Budget-Planner&color=1a78f4&logo=Codeforces&logoColor=FFFFFF&label=" alt="Budget-Planner" />
+    </a>
     <a href="https://github.com/ashutosh2708/Clinical_Appointment_Booking" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Clinical Appointment Booking&color=000000&logo=Hospital&logoColor=FFFFFF&label=" alt="Hospital" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Clinical Appointment Booking&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Hospital" />
     </a>
     <a href="https://github.com/ashutosh2708/hostdna" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HostDNA&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="HostDNA" />
     </a>
     <a href="https://github.com/ashutosh2708/Real_Estate" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Real Estate&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Real-Estate" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Real Estate&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Real-Estate" />
     </a>
-   </p>
+       </p>
 <br>
 
 
